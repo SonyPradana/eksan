@@ -1,5 +1,4 @@
 <template>
-<h1>angger</h1>
   <HelloWorld />
 </template>
 
